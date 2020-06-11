@@ -1,0 +1,1 @@
+cho hỏi_khoa da_liễu có khám bảo_hiểm lúc giờ không nếu không thanh bảo_hiểm thì thanh_thế_nào

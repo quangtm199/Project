@@ -1,0 +1,1 @@
+cho em hỏi nếu có bảo_hiểm thì chụp quang_vai sẽ mất phí là bao_nhiêu

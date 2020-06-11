@@ -1,0 +1,1 @@
+cho hoi nếu đăng_ký khám chữa bệnh ban_đầu tại ito thì có được khám các phòng_khám đa_khoa hay không hoặc ngược_lại nếu_như đăng_ký ban_đầu là đa_khoa thì có được khám chữa bệnh đúng tuyến ito hay không vui_lòng cho câu trả_lời cám_ơn

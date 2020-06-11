@@ -1,0 +1,1 @@
+ngày phòng_khám có mở_cửa cháu muốn đặt lịch đến khám vào ngày_mai
